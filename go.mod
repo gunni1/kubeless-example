@@ -1,6 +1,6 @@
 module github.com/gunni1/kubeless-example
 
-go 1.12
+go 1.10
 
 require (
 	github.com/kubeless/kubeless v1.0.3
